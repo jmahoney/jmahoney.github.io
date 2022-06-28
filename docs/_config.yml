@@ -30,7 +30,8 @@ url: "https://iterative.co.nz" # the base hostname & protocol for your site, e.g
 github_username:  jmahoney
 
 # Build settings
-theme: jekyll-skeleton
+#theme: jekyll-skeleton
+remote_theme: awochna/jekyll-skeleton
 plugins:
   - jekyll-feed
   - github-pages
