@@ -2,21 +2,21 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: index
+permalink: /
 ---
-<div class="row">
-  <div class="one-half column" style="margin-top: 10%; margin-bottom: 10%;">
-    <h4>Basic Page</h4>
-    <p>The index.html page is a placeholder with the CSS, font, and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
-  </div>
-  <div class="one-half column" style="margin-top: 10%; margin-bottom: 10%;">
-    <h4>Recent posts</h4>
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
+### Well hello
+
+It's so good to see you
+
+<div class="divider"></div>
+
+
+
+### Posts
+
+{% for post in site.posts %}
+
+{{post.title}}
+
+{% endfor %}

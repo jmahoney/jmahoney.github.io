@@ -31,7 +31,7 @@ github_username:  jmahoney
 
 # Build settings
 #theme: jekyll-skeleton
-remote_theme: awochna/jekyll-skeleton
+#remote_theme: awochna/jekyll-skeleton
 plugins:
   - jekyll-feed
   - github-pages
