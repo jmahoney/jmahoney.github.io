@@ -1,13 +1,26 @@
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Inter:wght@500&display=swap");
 body {
-    font-family: "Inter", sans-serif;
+    color: #262626;
+    font-size: larger;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    color: #0d47a1;
-    font-family: "EB Garamond", serif;
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bolder;
+    letter-spacing: -.1rem;
 }
 
 a {
-    color: #0d47a1;
+    color: #262626;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#site-title a {
+    text-decoration: none;
+}
+
+.card-image a {
+    color: #fff;
 }

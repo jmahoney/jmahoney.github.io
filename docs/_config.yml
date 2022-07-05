@@ -21,13 +21,14 @@
 title: Joe Mahoney
 email: jmahoney@iterative.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Joe Mahoney. I'm a programmer, manager, surf life guard, and local dad from Wellington, New Zealand.
+  I write and collect links about software engineering experience, career growth, continuous improvement, creativity, and productivity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iterative.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jmahoney
+
+permalink: /:title
 
 # Build settings
 #theme: jekyll-skeleton

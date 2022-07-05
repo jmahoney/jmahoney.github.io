@@ -4,29 +4,44 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <!-- Compiled and minified JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter">
-
         <link rel="stylesheet" href="/assets/css/site.css">
-
         <link rel="icon" type="image/png" href="/assets/images/favicon-32x32.png">
-
+        <title>{{ page.title }}</title>
     </head>
     <body>
-        <div class="container">
-            <div class="row">
-                <div class="col s6"><h5 id="site-title"><a href="/">Iterative</a></h5></div>
-                <div class="col s6 right-align">
-                    <p>
-                        <a href="/software/">Software</a> &middot;
-                        <a href="/about">About</a> &middot;
-                        <a href="/feed.xml">Feed</a>
-                    </p>
+        <header>
+            <div class="container">
+                <div class="row valign-wrapper">
+                    <div class="col s3"><h4 id="site-title"><a href="/">Iterative</a></h4></div>
+                    <div class="col s9 right-align">
+                        <p>
+                            <a href="/about">About</a> &middot;
+                            <a href="/feed.xml">Feed</a>
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div class="row">
-                {{content}}
+            <div class="divider"></div>
+        </header>
+        <main>
+            <div class="container">
+                    <div class="row">
+                        <div class="col s12">
+                            {{content}}
+                        </div>
+                    </div>
+                <div class="divider"></div>
             </div>
-        </div>
+        </main>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col s12">
+                    <p>Copyright 2022 Joe Mahoney</p>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
     </body>
 </html>
