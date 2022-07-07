@@ -1,0 +1,15 @@
+{
+    "links": [
+      {
+        "title": "GitHub",
+        "icon": "fa-github",
+        "url": "https://github.com/jmahoney"
+      },
+
+      {
+        "title": "LinkedIn",
+        "icon": "fa-linkedin",
+        "url": "https://www.linkedin.com/in/jmahoney"
+      }
+    ]
+  }

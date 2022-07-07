@@ -45,7 +45,7 @@ accent_color: '#e76f51'
 
 # Site footer
 footer:
-  content: "&copy; Joe Mahoney all rights reserved."
+  content: "&copy; Joe Mahoney. All rights reserved."
   has_social: true
 
 # Build settings
@@ -56,10 +56,12 @@ plugins:
   - jelyll-sitemap
   - github-pages
 
-paginate: 5
+paginate: 2
 paginate_path: '/page:num/'
 
 
+# Favicon
+favicon: images/favicon.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
