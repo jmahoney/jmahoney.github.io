@@ -2,13 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Iterative
-layout: index
+layout: default
 permalink: /
 ---
-I'm Joe Mahoney. I'm a programmer, manager, surf life guard, and local dad from Wellington, New Zealand.
-
-I mainly write about and curate links covering software engineering and management, career growth, continuous improvement, creativity, and productivity.
-
 #### Recent posts
 
 {% for post in site.posts limit:6 %}
