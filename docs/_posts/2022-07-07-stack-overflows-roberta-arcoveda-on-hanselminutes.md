@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Stack Overflow’s Roberta Arcoverde on Hanselminutes”
+title: Stack Overflow’s Roberta Arcoverde on Hanselminutes
 date: 07/07/2022 22:15:08 +1200
 category: Engineering Management
 tags: Hanselminutes, Stack Overflow,
