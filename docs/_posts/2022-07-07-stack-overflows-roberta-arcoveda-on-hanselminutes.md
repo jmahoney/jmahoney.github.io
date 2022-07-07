@@ -3,7 +3,7 @@ layout: post
 title: Stack Overflow’s Roberta Arcoverde on Hanselminutes
 date: 07/07/2022 22:15:08 +1200
 category: Engineering Management
-tags: Hanselminutes, Stack Overflow,
+tags: [Hanselminutes, Stack Overflow]
 ---
 
 Scott Hanselman’s guest on [episode 847 of the Hanselminutes podcast](https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde) was [Roberta Arcoverde](https://rla4.com/), the Director of Engineering at [Stack Overflow](https://stackoverflow.com).
