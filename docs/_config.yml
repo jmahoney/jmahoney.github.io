@@ -56,7 +56,7 @@ plugins:
   - jelyll-sitemap
   - github-pages
 
-paginate: 2
+paginate: 5
 paginate_path: '/page:num/'
 
 
