@@ -21,7 +21,7 @@
 title: Iterative
 email: jmahoney@iterative.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Joe Mahoney. I'm a programmer, <a href="https://xero.com">engineering manager</a>, <a href="https://https://www.titahibayslsc.org.nz/">surf life guard</a>, and local dad from Wellington, New Zealand. <br><br>I mainly write about and curate links covering software engineering and management, career growth, continuous improvement, creativity, and productivity.
+  I'm Joe Mahoney. I'm a programmer, <a href="https://xero.com">engineering manager</a>, <a href="https://https://www.titahibayslsc.org.nz/">surf life guard</a>, and local dad from Wellington, New Zealand.<br>I mainly write about and curate links covering software engineering and management, career growth, continuous improvement, creativity, and productivity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iterative.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -29,12 +29,37 @@ github_username:  jmahoney
 
 permalink: /:title
 
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Home
+    url: /
+  - text: Archive
+    url: /archive
+  - text: About
+    url: /about/
+  - text: Feed
+    url: /feed.xml
+
+# Colors
+accent_color: '#e76f51'
+
+# Site footer
+footer:
+  content: "&copy; Joe Mahoney all rights reserved."
+  has_social: true
+
 # Build settings
-#theme: jekyll-skeleton
 remote_theme: jmahoney/pot-kettle-black
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jelyll-sitemap
   - github-pages
+
+paginate: 5
+paginate_path: '/page:num/'
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
