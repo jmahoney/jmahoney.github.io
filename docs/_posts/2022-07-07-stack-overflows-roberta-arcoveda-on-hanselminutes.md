@@ -15,6 +15,7 @@ _“So now I manage the people, right? I manage their careers, I help them grow.
 Every company does engineering management differently, but that mix of technical detail and strategic focus is common, especially when you get a the manager of managers position.
 
 Anyone curious about the management side swing of the engineering/management pendlum would get a lot out of the things Roberta talked about.
+<!--more-->
 
 ### A few things that resonated with me
 
