@@ -2,7 +2,6 @@
 layout: post
 category: Friday Videos
 permalink: /pushing-through-friction
-date: 2022-07-15 8:28:52 +1200
 title: Pushing Through Friction, a talk by Daniel Na
 ---
 
