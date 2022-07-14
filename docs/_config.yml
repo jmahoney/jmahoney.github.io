@@ -35,6 +35,8 @@ navigation:
     url: /
   - text: Archive
     url: /archive
+  - text: Engineering Manager's Bookshelf
+    url: /engineering-manager-bookshelf
   - text: About
     url: /about/
   - text: Feed
