@@ -29,6 +29,8 @@ github_username:  jmahoney
 
 permalink: /:title
 
+timezone: Pacific/Auckland
+
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
