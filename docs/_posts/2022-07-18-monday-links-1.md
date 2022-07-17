@@ -13,7 +13,7 @@ _Every Monday I'll try and post links to articles or videos I've found interesti
 
 [Simon Willison asks GTP-3 to explain code](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/) and finds it to be "shockingly effective". Willison's examples include Python, Javascript, creating tables and querying them with SQL, a config file, and mathematical equations. If you've ever looked at your own code and wondered "what was I thinking?", AI might be able to tell you.
 
-That said, Willison notes that GPT-3 doesn't actually "know" anything, it's just really good at looking like it does:
+That said, Willison notes that GPT-3 doesn't actually "know" anything, it's just really good at looking like it does, and we should keep that in mind before asking GPT-3 something like "which is better?"
 
 >Once again, I’m reminded that tools like GPT-3 should be classified in the “bicycles for the mind” category. You still have to know how to pedal!
 >
