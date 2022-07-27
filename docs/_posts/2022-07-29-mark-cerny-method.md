@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2022-07-28 00:00:01 +1200
+date: 2022-07-29 06:00:01 +1200
 title: Mark Cerny describes the "Method"
 permalink: /mark-cerny-method
 ---
