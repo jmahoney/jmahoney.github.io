@@ -58,7 +58,7 @@ remote_theme: jmahoney/pot-kettle-black
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jelyll-sitemap
+  - jekyll-sitemap
   - github-pages
 
 paginate: 5
