@@ -68,6 +68,9 @@ paginate_path: '/page:num/'
 # Favicon
 favicon: images/favicon.png
 
+# Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "G-S0Z26TE7Z5"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
