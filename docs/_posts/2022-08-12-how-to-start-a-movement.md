@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2022-08-11 00:00:01 +1200
+date: 2022-08-12 06:00:01 +1200
 title: Derek Sivers talks about how to start a movement
 permalink: /how-to-start-a-movement
 ---
