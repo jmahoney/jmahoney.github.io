@@ -2,7 +2,7 @@
 category: Monday Links
 date: 2022-08-01 04:00:01 +1200
 title: Monday Links 3
-permalink: /mnday-links-3
+permalink: /monday-links-3
 ---
 
 [Vicky Boykis looks back on two years and Automattic and Tumblr](https://vickiboykis.com/2022/07/25/looking-back-at-two-years-at-automattic-and-tumblr/)
