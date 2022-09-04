@@ -1,6 +1,6 @@
 ---
 category: Monday Links
-date: 2022-09-04 00:00:01 +1200
+date: 2022-09-05 00:00:01 +1200
 title: Monday Links 8
 permalink: /monday-links-8
 ---
