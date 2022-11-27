@@ -2,7 +2,7 @@ name: trigger-rebuild
 
 on:
   schedule:
-    - cron:  '53 * * * *'
+    - cron:  '7 * * * *'
 
 jobs:
   trigger-rebuild:
@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: Deploy GitHub Pages site
         uses: actions/deploy-pages@v1.2.3
+        with:
+          token: ${{ secrets.USER_TOKEN }}
