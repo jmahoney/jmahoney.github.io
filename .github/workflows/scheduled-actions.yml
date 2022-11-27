@@ -2,13 +2,18 @@ name: trigger-rebuild
 
 on:
   schedule:
-    - cron:  '7 * * * *'
+    - cron:  '17 * * * *'
 
 jobs:
   trigger-rebuild:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy GitHub Pages site
-        uses: actions/deploy-pages@v1.2.3
-        with:
-          token: ${{ secrets.USER_TOKEN }}
+      - name: Trigger GitHub pages rebuild
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          # You must create a personal token with repo access as GitHub does
+          # not yet support server-to-server page builds.
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
