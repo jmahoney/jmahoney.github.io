@@ -2,6 +2,7 @@
 layout: post
 title: "Cracking the cadence of your software engineering 1:1s"
 category: Friday Videos
+date: 2023-01-20 06:00:00 +1300
 permalink: /leaddev-cracking-the-cadence-of-your-software-engineering-1-to-1s
 ---
 
