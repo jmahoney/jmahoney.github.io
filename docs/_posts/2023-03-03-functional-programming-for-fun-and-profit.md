@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2023-03-02 00:00:01 +1200
+date: 2023-03-03 06:00:01 +1300
 title: "Functional programming for fun and profit!! by Jenny Shih"
 permalink: /functional-programming-for-fun-and-profit-jenny-shih
 ---
