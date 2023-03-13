@@ -10,7 +10,7 @@ This collection of books has helped me understand how to be a software engineeri
 
 There are many more books I still need to read and I'll add more as I find ones I can recommend. If you have any comments or recommendations please don't hestiate to [email me](mailto:jmahoney@iterative.co.nz).
 
-[I've mirrored this list on bookshop.org](https://bookshop.org/lists/the-engineering-manager-s-bookshelf/) and most of the links in this post point there. I encourage you to buy the books from your local bookshop, though. I get an affiliate cut if you buy a book from bookshop.org, but it's not something expecting to ever be worth cashing in.
+[I've mirrored this list on bookshop.org](https://bookshop.org/lists/the-engineering-manager-s-bookshelf/) and most of the links in this post point there. I encourage you to buy the books from your local bookshop, though.
 
 #### [Nine Lies About Work: A Freethinking Leader's Guide to the Real World by Marcus Buckingham and Ashley Goodall](https://bookshop.org/a/14808/9781633696303)
 
@@ -25,7 +25,7 @@ Some of the things I try to remember:
 * The performance/potential grid your HR team tries to make you use is harmful
 * Don't cascade unrelatable goals, talk about why your team's work matters
 
-Cheers to [Chris Baker](https://www.linkedin.com/in/chris-b-73280b6b/) for insisting I read chapter one
+Cheers to [Chris Baker](https://www.linkedin.com/in/chris-b-73280b6b/) for insisting I read Chapter One.
 
 #### [Turn The Ship Around! A True Story of Turning Followers Into Leaders by L. David Marquet](https://bookshop.org/a/14808/9781591846406)
 
@@ -35,7 +35,7 @@ A staple book for anyone who is accountable for other people getting stuff done.
 
 Marquet reinforced for me the idea of _optimising the practices rather than the metrics_. Promotions, sailor retention, and certification were important metrics to Marquet, but his approach wasn't aimed at them specifically. Instead, he worked on getting the basics of running a submarine right and building on that. When the team was performing well at their day-to-day work, it showed in the higher level metrics.
 
-Shouts out to [Matt](https://www.linkedin.com/in/mattnz/) and [Para](https://www.linkedin.com/in/para-m/) for both recommending Turn The Ship Around and then showing me how to put it into action.
+Shouts out to [Matt](https://www.linkedin.com/in/mattnz/) and [Para](https://www.linkedin.com/in/para-m/) for both recommending *Turn The Ship Around* and then showing me how to put it into action.
 
 #### [The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations by Nicole Forsgren, Gene Kim, Jez Humble, and Patrick Debois](https://bookshop.org/a/14808/9781950508402)
 [![Link to the DevOps Handbook on bookshop.org](https://images-us.bookshop.org/ingram/9781950508402.jpg?height=500&v=v2-8eddfce329b65a5e0e0aa2a572155698)](https://bookshop.org/a/14808/9781950508402)
@@ -106,7 +106,7 @@ Over the last couple of years, I’ve worked pretty closely with our Graduate En
 ### [Show Your Work! by Austin Kleon](https://bookshop.org/a/14808/9780761178972)
 [![Link to Show Your Work! on bookshop.org](https://images-us.bookshop.org/ingram/9780761178972.jpg?height=500&v=v2)](https://bookshop.org/a/14808/9780761178972)
 
-This might seem like a weird recommendation for engineering eanagers. [Austin Kleon](http://austinkleon.com) writes books for “creative” folks – artists, writers, designers – and he doesn’t really talk about the things Kim Scott or Richard Rumelt talk about. Or does he?
+This might seem like a weird recommendation for engineering managers. [Austin Kleon](http://austinkleon.com) writes books for “creative” folks – artists, writers, designers – and he doesn’t really talk about the things Kim Scott or Richard Rumelt talk about. Or does he?
 
 Let me put it this way: ever feel like you aren’t making a difference? Or do you ever feel like other folks don’t understand how your work adds value? It’s common! The work of someone in an engineering manager’s position is often invisible, or not well understood.
 _Show Your Work_ can help with that.
@@ -114,3 +114,8 @@ _Show Your Work_ can help with that.
 Austin Kleon has written a short, snappy guide to feeling good about what you’re doing and showing it off to the world. He breaks it into ten easy to digest concepts like “Think process, not product”, “Tell Good Stories”, “Teach What You Know”, and “Learn To Take A Punch”. Kleon encourages us to become “documentarions” of what we do.
 
 I have been doing that privately in a journal for myself for a few years now and it’s helped me get to grips with my job, what my company needs from me, and what I want to get out of it. This website is the next step in that process.
+
+### [Never Split The Difference: Negotiating As If Your Life Depended On It by Chris Voss with Tahl Raz](https://bookshop.org/a/14808/9780062407801)
+[![Link To Never Split The Difference on bookshop.org](https://images-us.bookshop.org/ingram/9780062407801.jpg?height=500&v=v2)](https://bookshop.org/a/14808/9780062407801)
+
+Chris Voss was an FBI negotiator and developed his skills and techniques by talking to kidnappers, hostage takers, employers, and car salesmen. I think the techniques in this book - calibrated questions, focusing on the issue, treating the people you're negotiating with as partners, observing how people act, building trust - are essential to having a successful career as manager, and to ensuring you and your team are set up for success.  I cannot recommend this book highly enough.
