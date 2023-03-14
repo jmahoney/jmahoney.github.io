@@ -12,3 +12,7 @@ permalink: /monday-links-21
 [Chelsea Troy: On Code Coverage Tools](https://chelseatroy.com/2023/02/07/on-code-coverage-tools/)
 
 Chelsea Troy argues for framing coder coverage as a _satisficing metric_ as opposed to an _optimizing metric_ so that you consider the context and relative value of your tests rather than just aiming to improve the coverage number.
+
+[Rands: Seven Plus or Minus Three](https://randsinrepose.com/archives/seven-plus-or-minus-three/)
+
+> A common question I am asked, “How big should the team be?” My immediate response: Seven plus or minus three. There is a not a lot of hard theory behind this guideline, just common sense.
