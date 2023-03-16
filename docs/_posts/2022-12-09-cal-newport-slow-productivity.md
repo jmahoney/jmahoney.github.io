@@ -2,7 +2,7 @@
 category: Friday Videos
 date: 2022-12-09 18:21:01 +1300
 title: Cal Newport on Slow Productivity
-permalink: /permalink
+permalink: /cal-newport-on-slow-productivity
 ---
 [Cal Newport's Deep Questions podcast](https://www.calnewport.com/podcast/) was a new subscription for me this year. Newport covers a bunch of topics around the theme of doing important work well and sustainably. The podcast is way less dry than you might imagine, largely due to Newport's dad-joke heavy sense of humour.
 
