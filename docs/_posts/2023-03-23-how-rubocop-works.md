@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2023-03-18 00:00:01 +1200
+date: 2023-03-24 06:00:01 +1300
 title: "Analyzing an analyzer - A dive into how RuboCop works by Kyle d'Oliveira"
 permalink: /rubyconf-2022-how-rubocop-works
 tags: ["ruby"]
