@@ -11,7 +11,7 @@ This blog focuses about all the things I find interesting about my work and hobb
 
 ### Opinions
 
-Everything I write here is my own opinion. I don't speak for my employer, nor anyone else. I'm often mistaken, misguided, or even wrong and I'm never unhappy to be steered in the right direction.
+Everything I write here is my own opinion. I don't speak for my employer, nor anyone else. I'm often mistaken, misguided, or even wrong and I'm always happy to be steered in the right direction.
 
 ### Colophon
 
@@ -21,4 +21,4 @@ The theme is called [pot-kettle-black](https://github.com/jmahoney/pot-kettle-bl
 
 ### Me, elsewhere
 
-I'm not big on social media but you can find me on [Metafilter](https://www.metafilter.com/user/1076), [GitHub](https://github.com/jmahoney), and [LinkedIn](https://linkedin.com/in/jmahoney).
+I like email: please reach out at jmahoney @ iterative dot co dot nz. You can find me on [LinkedIn](https://linkedin.com/in/jmahoney), [GitHub](https://github.com/jmahoney), [Badger](https://badgerchat.io/profile/joemahoney), and [Metafilter](https://www.metafilter.com/user/1076).
