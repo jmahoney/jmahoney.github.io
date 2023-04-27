@@ -10,5 +10,4 @@ It's about time I shared [another great Nickolas Means talk](https://www.youtube
 
 As usual Nickolas Means tells a dramatic story with fascinating characters and just the right amount of technical detail. Then he dives into what we can learn as software engineers and managers. This particular talk is especially useful for leaders, with very clear illustrations of what to do and what not to do when faced with the worst case scenario.
 
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RGS0jBMniag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
