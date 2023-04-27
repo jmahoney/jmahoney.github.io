@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Iterative
-longtitle: Iterative by Joe Mahoney, software engineering, and surf life guard, and runner
+longtitle: Iterative by Joe Mahoney - software engineering, surf life guard, and runner
 email: jmahoney@iterative.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Joe Mahoney. I'm software engineering leader, <a href="https://https://www.titahibayslsc.org.nz/">surf life guard</a>, and runner from Wellington, New Zealand.<br>I mainly write about and curate links covering software engineering and management, career growth, continuous improvement, creativity, and productivity.
