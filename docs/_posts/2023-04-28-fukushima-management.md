@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2023-04-28 06:00:00 +1200
+date: 2023-04-28 05:00:00 +1200
 title: The Magnitude 9.1 Meltdown at Fukushima by Nickolas Means
 permalink: /fukushima-management-nickolas-means
 tags: "management, incidents, learning"
