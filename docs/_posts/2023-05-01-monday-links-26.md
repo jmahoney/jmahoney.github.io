@@ -15,3 +15,5 @@ I've had a small glimpse into the work involved to get the conference off the gr
 > You can find a reason to stay at work all night, every night here. There is always going to be something to do. You are never going to clear out your inbox. You are never going to return every phone call. You are never going to read every paper that you could. Ultimately if you do that, you’ll be worse at your job. 
 
 This short article reminded me about the key lessons of *Four Thousand Hours* and *Getting Things Done*: there is too much to do, so knowing what you can not do, and actually not doing it, is really important.
+
+🛤️ [What is the difference between Turbo and Stimulus, and what exactly is Hotwire?](https://www.ducktypelabs.com/turbo-vs-stimulus/) Every year or so I try to get a taste of the latest Ruby on Rails stack. This year I've come across a lot of new front-end focused stuff in Rails. This blog post succinctly describes the philosophy and mechanics behind the new tooling. 
