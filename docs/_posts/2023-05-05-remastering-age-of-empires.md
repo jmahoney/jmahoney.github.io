@@ -1,6 +1,6 @@
 ---
 category: Friday Videos
-date: 2023-05-06 05:00:01 +1200
+date: 2023-05-05 05:00:01 +1200
 title: Remastering Age Of Empires, or how to actually run and complete a software modernisation project
 permalink: /remastering-age-of-empires-and-modernisation-projects
 tags: 
@@ -18,7 +18,7 @@ What has any of this got to do with [today's video](https://youtu.be/fJ4TMdIYadc
 
 It's a [Noclip](https://www.noclip.video/) documentary about how Microsoft revived the [Age Of Empires](https://www.ageofempires.com/) video game franchise by remastering the first three games for modern computers, then created a console version of each, and topped it off by creating a brand new Age Of Empires game. It's a modernisation project that appears to have gone the right way. 
 
-Sure, you can't *really* compare video game remastering with projects to move an old UI to React or to try and implement continious delivery on an 25+ year .Net codebase but I think the documentary shows what needs to be true for a modernisation effort to succeed:
+Sure, you can't *really* compare video game remastering with projects to move an old UI to React or to try and implement continious delivery on an 15+ year .Net codebase but I think the documentary shows what needs to be true for a modernisation effort to succeed:
 
 1. There are customers who want the modernised version of the software
 2. The scope of the modernisation is clear and constrained
@@ -30,4 +30,4 @@ Sure, you can't *really* compare video game remastering with projects to move an
 
 Of course, those are the things that need to be true for any successful software project. Isn't it funny how organisations forget that as soon as you chuck around the word modernisation?
 
-<div class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/fJ4TMdIYadc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fJ4TMdIYadc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
