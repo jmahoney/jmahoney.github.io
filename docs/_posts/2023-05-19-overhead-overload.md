@@ -13,7 +13,7 @@ I've been repeating that quote to a few folks recently and I was reminded of it 
 
 In the [deep dive section Cal talks about workplace overload and the causes of it](https://youtu.be/EoWlWIUJyPQ?start=120). He cites the overheads of modern work - handoffs, coordination, context switching, etc as the major cause of overload and burnout. It's not the writing of the strategy document, it's the meetings and emails and IMs to discuss it that wear you down. Like Seinfeld with doing nothing, people find it hard to do their actual jobs because the idea of *taking about doing the work* could easily lead to *having a meeting to discuss doing the work* that would cut into *actually doing the work* and that would force you to *just do more stuff*. 
 
-Yeahm, ok, I need to workshop that.
+Yeah, ok, I need to workshop that.
 
 As you might imagine, I don't miss coordination convos, nor do I miss planning meetings for the upcoming quarterly planning and I especially do not miss those [Slack messages that just start with "Hello..."](https://nohello.net/en/)
 
