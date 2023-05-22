@@ -1,8 +1,8 @@
 ---
 category: Monday Links
 date: 2023-05-08 05:00:54 +1200
-title: Monday Links 26
-permalink: /monday-links-26
+title: Monday Links 27
+permalink: /monday-links-27
 tags: 
 ---
 
