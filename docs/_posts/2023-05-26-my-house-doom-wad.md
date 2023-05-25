@@ -1,7 +1,7 @@
 ---
 category: Friday Videos
 date: 2023-05-26 06:07:04 +1200
-title: Doom meets House of Leaves in MyHo
+title: Doom meets House of Leaves in MyHouse.wad
 permalink: /doom-meets-house-of-leaves
 tags: 
 ---
