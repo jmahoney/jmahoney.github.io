@@ -5,6 +5,8 @@ title: Open to work
 permalink: /open-to-work-april-2023
 ---
 
+**Update:** As of June 2023, [I'm happily employed at The Co-operative Bank.](https://iterative.co.nz/back-to-work-june-2023)
+
 [I posted this message on LinkedIn](https://www.linkedin.com/posts/jmahoney_opentowork-activity-7051473411914567682-Ymwm?utm_source=share&utm_medium=member_desktop) and I think it's worth posting here too, should folks be interested in working with me.
 
 After nine and a half years at Xero, I've decided it's time for a change. My last day will be at the end of this month, and I'm excited to explore new opportunities in the software development world.
