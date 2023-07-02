@@ -19,9 +19,9 @@ tags:
 >- you can't live without a message queue
 >- everything must become a micro service
 >- of course you need a container for that
->- of course you need a orchestrator to organize >those containers
->- of course you need the cloud, it would be crazy to >deal with those containers and orchestrators yourself
->- dude, why do you have a server? Use a serveless >backend!
+>- of course you need a orchestrator to organize those containers
+>- of course you need the cloud, it would be crazy to deal with those containers and orchestrators yourself
+>- dude, why do you have a server? Use a serveless backend!
 >- dude, why do you have a backend? Just call saas from the edge!
 > 
 > Every year, some generation of engineers have to learn the concepts of "there is no silver bullet", "use the right tech for the right problem", "your are not google", "rewriting a codebase every 2 years is not a good business decision", "things cost money".
