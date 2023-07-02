@@ -1,7 +1,7 @@
 ---
 category: Miscellany
 date: 2023-07-02 11:59:43 +1200
-title: Back To Work
+title: Back to work
 permalink: /back-to-work-june-2023
 tags: 
 ---
