@@ -3,6 +3,7 @@ layout: post
 category: Friday Videos
 permalink: /pushing-through-friction
 title: Pushing Through Friction, a talk by Daniel Na
+tags: ["conference-talk","pushing-through-friction", "management", "leadership"]
 ---
 
 Every Friday I post a video related to one of the themes of this site. This week it's [a talk by Daniel Na about pushing through organisational friction to get important work done](https://www.youtube.com/watch?v=8bxZuzDKoI0).
