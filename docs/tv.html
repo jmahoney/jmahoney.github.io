@@ -1,0 +1,15 @@
+---
+layout: page
+title: Iterative TV
+permalink: /tv/
+---
+
+{% for post in site.posts %}
+    <!-- if post has post.youtube then write the title -->
+    {% if post.youtube %}
+        {{ post.title }}<br/>
+    {% endif %}
+{% endfor %}
+
+
+    

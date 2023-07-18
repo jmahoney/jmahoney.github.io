@@ -4,7 +4,7 @@ date: 2023-07-21 05:00:00 +1200
 title: Kiwiana & Code, Katrina Clokie at NZ Tech Rally 2023
 permalink: /kiwiana-and-code-katrina-clokie-nz-tech-rally-2023
 tags: ["conference-talk", "katrina-clokie", "leadership", "culture", "new-zealand"]
-youtubeurl: https://youtu.be/_7FvUEvLYoM
+youtube: _7FvUEvLYoM
 ---
 [Katrina Clokie](https://www.linkedin.com/in/katrina-clokie/) opened [NZ Tech Rally 2023](https://nztechrally.com/) with [a talk about how aspects New Zealand's general culture interact with aspects of tech culture](https://youtu.be/_7FvUEvLYoM), especially the things that we import from big tech companies and US business culture. It was an insightful talk, and, more importantly funny! Katrina doesn't skewer kiwis, she celebrates our points of difference. It was a great way to start the conference.
 

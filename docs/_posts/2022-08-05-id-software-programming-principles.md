@@ -3,7 +3,7 @@ category: Friday Videos
 date: 2022-08-05 05:00:01 +1200
 title: id Software's Programming Principles
 permalink: /id-software-programming-principles
-youtubeurl: https://www.youtube.com/watch?v=E2MIpi8pIvY
+youtube: E2MIpi8pIvY
 tags: [john-romero, id-software, video-games, process, conference-talk, gdc]
 ---
 Every Friday I post a video related to one of the themes of this site. This week it's [John Romero at GDC Europe talking about the the programming principles of early id Software](https://www.youtube.com/watch?v=E2MIpi8pIvY).

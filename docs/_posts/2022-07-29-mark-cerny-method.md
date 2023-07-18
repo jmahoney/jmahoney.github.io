@@ -3,7 +3,7 @@ category: Friday Videos
 date: 2022-07-29 06:00:01 +1200
 title: Mark Cerny describes the "Method"
 permalink: /mark-cerny-method
-youtubeurl: https://youtu.be/QOAW9ioWAvE
+youtube: QOAW9ioWAvE
 tags: [mark-cerny, dice, conference-talk, video-games, agile, process]
 ---
 Every Friday I post a video related to one of the themes of this site. This week it's [a talk about how to make big games](https://youtu.be/QOAW9ioWAvE).

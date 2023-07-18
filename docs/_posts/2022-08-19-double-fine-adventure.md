@@ -3,7 +3,7 @@ category: Friday Videos
 date: 2022-08-19 16:27:01 +1200
 title: Double Fine Adventure
 permalink: /double-fine-adventure
-youtubeurl: https://www.youtube.com/watch?v=zVwg-9WL3dE
+youtube: zVwg-9WL3dE
 tags: [double-fine, video-games, process, documentary]
 ---
 
