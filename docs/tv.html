@@ -3,13 +3,32 @@ layout: page
 title: Iterative TV
 permalink: /tv/
 ---
-
-{% for post in site.posts %}
-    <!-- if post has post.youtube then write the title -->
-    {% if post.youtube %}
-        {{ post.title }}<br/>
-    {% endif %}
-{% endfor %}
+<script src="https://www.youtube.com/player_api"></script>
 
 
-    
+
+<div id="player"></div>
+  <script>
+    // Define an array of YouTube video IDs
+    //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
+    var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
+    // Shuffle the array to play videos in random order
+    videos.sort(function() { return 0.5 - Math.random() });
+
+    // Create a new YouTube player
+    var player;
+    function onYouTubePlayerAPIReady() {
+      player = new YT.Player('player', {
+        height: '100%',
+        width: '100%',
+        playerVars: {
+          autoplay: 1,
+          controls: 0,
+          loop: 1,
+          playlist: videos.join(','),
+          rel: 0,
+          showinfo: 0
+        }
+      });
+    }
+  </script>    
