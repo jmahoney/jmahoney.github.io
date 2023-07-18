@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-08-12 06:00:01 +1200
 title: Derek Sivers talks about how to start a movement
 permalink: /how-to-start-a-movement
+youtubeurl: https://www.youtube.com/watch?v=V74AxCqOTvg
+tags: [derek-sivers, ted-talk, leadership]
 ---
 Every Friday I post a video related to one of the themes of this site. This week it's [Derek Sivers on leaders and followers](https://www.youtube.com/watch?v=V74AxCqOTvg).
 

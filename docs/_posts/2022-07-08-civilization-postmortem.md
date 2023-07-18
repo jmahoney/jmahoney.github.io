@@ -3,6 +3,9 @@ layout: post
 title: Classic Game Postmortem - Sid Meier's Civilization
 category: Friday Videos
 permalink: /classic-game-postmortem-civilization
+youtubeurl: https://www.youtube.com/watch?v=AJ-auWfJTts
+tags: [video-games, postmortem, civilization, sid-meier, bruce-shelley, gdc]
+
 ---
 Every Friday I post a video related to one of the themes of this site. This week it's [a dive into the how the first edition of the legendary Civilization series of games was made](https://www.youtube.com/watch?v=AJ-auWfJTts).
 

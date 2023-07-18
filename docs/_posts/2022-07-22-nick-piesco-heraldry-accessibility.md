@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-07-22 00:00:01 +1200
 title: This one simple 600-year-old trick makes your website more accessible - Nick Piesco at !!Con
 permalink: /nick-piesco-heraldry-accessibility
+youtubeurl: https://youtu.be/gUNPsLGrtu0
+tags: [nick-piesco, front-end-development, conference-talk, "!!!-con", heraldry]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gUNPsLGrtu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

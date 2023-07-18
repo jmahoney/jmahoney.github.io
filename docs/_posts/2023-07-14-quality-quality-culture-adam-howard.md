@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-07-14 05:00:00 +1200
 title: Fostering a quality quality culture, Adam Howard at NZ Tech Rally 2023
 permalink: /fostering-a-quality-quality-culture
-tags: 
+tags: [nz-tech-rally, adam-howard, quality, conference-talk]
+youtubeurl: https://youtu.be/Wx6Mf4acEMM
 ---
 [NZ Tech Rally 2023](https://nztechrally.com/) was a tremendous success, with top-notch speakers and genuinely useful and entertaining content.
 

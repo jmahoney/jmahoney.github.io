@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-08-19 16:27:01 +1200
 title: Double Fine Adventure
 permalink: /double-fine-adventure
+youtubeurl: https://www.youtube.com/watch?v=zVwg-9WL3dE
+tags: [double-fine, video-games, process, documentary]
 ---
 
 In 2012 [Double Fine](https://www.doublefine.com/) ran a [Kickstarter campaign around the idea of documenting the process of creating a new point and click adventure](https://www.kickstarter.com/projects/doublefine/double-fine-adventure). They aimed for $300K to make the game and $100K for the documentary. By the end of the campaign, backers had pledged $3.3 million.
