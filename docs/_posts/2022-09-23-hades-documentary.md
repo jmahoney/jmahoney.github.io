@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-09-23 20:00:01 +1200
 title: Hades - Developing Hell
 permalink: /hades-documentary
+youtube: JzyE9hi912c
+tags: ["no-clip", "documentary", "video-games", "process"]
 ---
 
 [Noclip](https://www.noclip.video/) are a tiny studio who create documentaries about video games. They concentrate on diving deep into the history of studios or the development of specific titles. Entirely funded by Patreon, Noclip's documentaries are hight quality and fascinating viewing.

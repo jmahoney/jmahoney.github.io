@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-11-11 16:38:01 +1300
 title: The Mathematics of Weight Loss, a talk by Ruben Meerman
 permalink: /the-mathematics-of-weight-loss-ruben-meerman
+youtube: vuIlsN32WaE
+tags: ["ruben-meerman", "chemistry", "biology", "physics", "science", "ted-talk", "weight-loss"]
 ---
 
 Understanding how your systems *actually* work is an important part of software engineering. More often than not when something goes wrong it's due to an incorrect assumption about the software or the environment in which it runs. And, man, [are there a lot of things people *just believe* to be true](https://github.com/kdeldycke/awesome-falsehood).

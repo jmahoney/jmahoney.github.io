@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-06-30 05:00:00 +1200
 title: Automation is hard! And we are doing it wrong... a talk by Johan Abildskov
 permalink: /automation-is-hard-and-we-are-doing-it-wrong-talk
-tags: 
+tags: ["conference-talk", "johan-abildskov", "testing", "automation"]
+youtube: JU5niXIrK3Y
 ---
 
 Johan Abildskov presented [Automation is Hard!](https://youtu.be/JU5niXIrK3Y) at GOTO Copenhagen in 2022 and it popped up in my feed while I was on the pro-leisure circuit. 

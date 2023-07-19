@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-05-05 05:00:01 +1200
 title: Remastering Age Of Empires, or how to actually run and complete a software modernisation project
 permalink: /remastering-age-of-empires-and-modernisation-projects
-tags: 
+tags: ["video-games", "no-clip", "documentary", "remaster", "modernisation", "age-of-empires"]
+youtube: fJ4TMdIYadc
 ---
 
 Point at any software company older than 10 years and you'll find a modernisation project. It'll probably course of work covering a sprawling codebase chock full of features and a deployment process with plenty of bespoke steps, with an aim to bring both kicking and screaming into the current best practice. And for some reason the organisation will have put aside it's usual engineering and product development processes and adopted a different way of working.

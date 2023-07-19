@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-10-07 05:00:01 +1300
 title: Andrew Huberman on the optimal morning routine
 permalink: /huberman-optimal-morning-routine.md
+youtube: gR_f-iwUGY4
+tags: ["andrew-huberman", "routine", "sleep", "practices", "wellbeing"]
 ---
 Programmers are at their best when they can focus deeply on a task. Managers thrive when they have the energy to context switch. A good sleep and an efficient morning routine help a lot in both cases.
 

@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2023-03-03 06:00:01 +1300
 title: "Functional programming for fun and profit!! by Jenny Shih"
 permalink: /functional-programming-for-fun-and-profit-jenny-shih
+youtube: tQPmFQSI0lo
+tags: ["jenny-shih", "conference-talk", "functional-programming", "ruby"]
 ---
 
 [Speaking at RubyConf Mini 2022](https://www.youtube.com/watch?v=tQPmFQSI0lo), Jenny Shih walks through the powerful mental models and tools that FP gives us, and how we can readily use them to improve our apps in a language that we all love and understand.

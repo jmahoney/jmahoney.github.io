@@ -4,6 +4,8 @@ title: "Cracking the cadence of your software engineering 1:1s"
 category: Friday Videos
 date: 2023-01-20 06:00:00 +1300
 permalink: /leaddev-cracking-the-cadence-of-your-software-engineering-1-to-1s
+youtube: a7RlVUcCLNg
+tags: ["leaddev", "management", "1-1s"]
 ---
 
 As is the tradition for  New Zealand based managers are coming back from a summer break I'm looking at all of my practices and thinking about where I might be able to do better this year. This year I've landed on more effective 1:1s. I'm a fan of [LeadDev.com](https://leaddev.com) for topics like this and there are a [wealth of resources about 1:1s there](https://leaddev.com/category/11s).

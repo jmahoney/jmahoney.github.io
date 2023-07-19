@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-03-24 06:00:01 +1300
 title: "Analyzing an analyzer - A dive into how RuboCop works by Kyle d'Oliveira"
 permalink: /rubyconf-2022-how-rubocop-works
-tags: ["ruby"]
+youtube: pSCMgcttW4c
+tags: ["ruby", "rubocop", "conference-talk", "kyle-doliveira"]
 ---
 
 Linters and codeformatters are my favourite kinds of tool because they promote consistency, uncover complexity, and save teams from nonsense issues.

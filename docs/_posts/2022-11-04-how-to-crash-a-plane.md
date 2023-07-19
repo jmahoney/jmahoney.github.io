@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-11-04 22:00:01 +1200
 title: How to crash an airplane, a talk by Nickolas Means
 permalink: /how-to-crash-an-airplane-nickolas-means
+youtube: 099cHWSbAL8
+tags: ["conference-talk", "nikolas-means", "learning-from-failure"]
 ---
 
 Nick Mean's talks often discuss routine situations going disasterously wrong. He picks out lessons from those sitations and shows how they could apply to software teams and the processes around building and running software.

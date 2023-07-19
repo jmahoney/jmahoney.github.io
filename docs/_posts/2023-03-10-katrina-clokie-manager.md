@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2023-03-10 22:00:01 +1200
 title: Making the most of your manager, a talk by Katrina Clokie
 permalink: /making-the-most-of-your-manager-katrina-clokie
+youtube: 1RknpWB0wRQ
+tags: ["katrina-clokie", "management", "1-1s"]
 ---
 
 One thing about being a manager yourself is that you can tend to forget that you have a manager, and that you need to practice the advice you might give to your own reports. [This talk by Katrina Clokie](https://www.youtube.com/watch?v=1RknpWB0wRQ) is an excellent reminder of the value of maintaining a good working relationship with yours.

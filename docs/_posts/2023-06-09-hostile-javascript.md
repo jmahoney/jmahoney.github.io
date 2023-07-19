@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-06-09 05:00:00 +1200
 title: "Hostile Javascript: Attacking And Defending The Browser, a talk by Todd H. Gardener"
 permalink: /hostile-javascript
-tags: 
+tags: ["conference-talk", "todd-h-gardner", "javascript", "security"]
+youtube: WawXh_E6gqo
 ---
 [This great talk from by Todd H. Gardner at NDC London 2023](https://youtu.be/WawXh_E6gqo) is a great reminder that we need to be deliberate about assessing what code we allow to run on our websites. My favourite bit is Todd's realisation that he set out to make a useful targetted debugging tool and accidentally made "cross site scripting as a service".
 

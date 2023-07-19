@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-10-14 05:00:01 +1300
 title: Benedict Cumberbatch reads a letter from Kurt Vonnegut
 permalink: /letter-from-kurt-vonnegut
+youtube: mHMS35ZfyGw
+tags: ["kurt-vonnegun", "letters-of-note", "benedict-cumberbatch"]
 ---
 My regular morning routine includes reading a letter from one of the the [Letters of Note collections](https://lettersofnote.com/). I'm always fond of [the ones written by Kurt Vonnegut](https://www.youtube.com/watch?v=mHMS35ZfyGw).
 

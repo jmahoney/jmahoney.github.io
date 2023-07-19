@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2023-02-17 05:00:01 +1300
 title: Double Fine PsychOdyssey
 permalink: /double-fine-psychodyssey
+youtube: AKoy_KMVIyU
+tags: ["double-fine", "video-games", "documentary", "psychonauts", "psychonauts2", "process"]
 ---
 
 [A new playlist](https://www.youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_) appeared on [Double Fine's YouTube channel](https://www.youtube.com/@DoubleFineProd) recently: all 30+ episodes documenting seven years of work to make [Psychonauts 2](https://store.steampowered.com/app/607080/Psychonauts_2/). The documentary is called [PsychOdyssey](https://www.youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_)

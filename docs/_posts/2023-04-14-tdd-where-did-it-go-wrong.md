@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-04-14 13:26:01 +1200
 title: TDD, Where Did It All Go Wrong, a talk by Ian Cooper
 permalink: /tdd-where-did-it-all-go-wrong
-tags: [programming, testing, tdd]
+tags: ["ian-cooper", "conference-talk", "programming", "testing", "tdd"]
+youtube: EZ05e7EMOLM
 ---
 
 [This classic talk by Ian Cooper](https://www.youtube.com/watch?v=EZ05e7EMOLM) is a breath of fresh air. Copper quick;y covers Test Driven Development as it is generally practiced, the arguments against TDD and why those arguments *feel* right, and then goes back to the principles and practices of TDD as described by [Kent Beck in *Test Driven Development By Example*](https://bookshop.org/a/14808/9780321146533).

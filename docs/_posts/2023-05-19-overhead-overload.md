@@ -3,7 +3,7 @@ category: Friday Videos
 date: 2023-05-19 05:00:00 +1200
 title: Cal Newport on Overload and Jerry Seinfeld on Doing Nothing
 permalink: /overhead-overload-nothing
-tags: 
+tags: ["cal-newport", "overload", "burnout", "jerry-seinfeld"]
 ---
 My [work break](https://iterative.co.nz/open-to-work-april-2023) is going gangbusters. I'm firmly embedded in the pro-leisure circuit, the aim of which is to be [like Jerry Seinfeld and do nothing](https://www.youtube.com/watch?v=FhPt8_yNqlA). Seinfeld is right though, doing nothing isn't as easy as it looks. I've filled my time with plenty of *stuff*: family activities, running and gym, gardening, meeting folks, and even [doing stuff with computers](https://github.com/jekyll/jekyll/pull/9360). There hasn't actually been a lot of actual nothing. Seinfeld puts it like this:
 

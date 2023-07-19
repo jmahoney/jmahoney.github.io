@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-05-12 05:00:00 +1200
 title: Robots learn to play football
 permalink: /robots-learn-to-play-football
-tags: 
+youtube: chMwFy6kXhs
+tags: ["ai", "robots", "football", "import-ai"]
 ---
 
 You might have seen [this video of robots running around after a football, getting up after falling, and kicking goals](https://youtu.be/chMwFy6kXhs). I found it fascinating for a few reasons:
@@ -13,7 +14,6 @@ You might have seen [this video of robots running around after a football, getti
 3. Strategic gameplay was one of the emergent behaviours - e.g. anticipating where the ball will be
 
 It also made me wonder if a sign of an artificial *general* intelligence is a strong opinion as to whether one should call it soccer or football.
-
 
 (*[via Import AI](https://importai.substack.com/p/import-ai-328-cheaper-stablediffusion)*)
 

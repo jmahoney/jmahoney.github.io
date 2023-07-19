@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-04-28 05:00:00 +1200
 title: The Magnitude 9.1 Meltdown at Fukushima by Nickolas Means
 permalink: /fukushima-management-nickolas-means
-tags: "management, incidents, learning"
+tags: ["management", "incidents", "learning-from-failure", "nickolas-means"]
+youtube: RGS0jBMniag
 ---
 
 It's about time I shared [another great Nickolas Means talk](https://www.youtube.com/watch?v=RGS0jBMniag). This one is from [RubyConf 2022](https://www.youtube.com/watch?v=-ExPO-FCKQA&list=PLE7tQUdRKcyZYz0O3d9ZDdo0-BkOWhrSk) and covers what happened at the Fukushima Daiichi nuclear power facility after the 9.2 earthquake and subsequent tsunamis that struck Japan in 2011.

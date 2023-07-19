@@ -3,7 +3,8 @@ category: Friday Videos
 date: 2023-05-26 06:07:04 +1200
 title: Doom meets House of Leaves in MyHouse.wad
 permalink: /doom-meets-house-of-leaves
-tags: 
+tags: ["video-games", "doom", "house-of-leaves","mike-hoye", "metafilter", "mods"]
+youtube: 5wAo54DHDY0
 ---
 
 Do you have a couple of hours spare to [watch someone else play Doom II](https://youtu.be/5wAo54DHDY0)? This video is worth it.

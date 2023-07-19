@@ -3,6 +3,8 @@ category: Friday Videos
 date: 2022-08-26 17:15:01 +1200
 title: Productivity Engineering - Surviving DevOps, a talk by Mike McGarr
 permalink: /productivity-engineering-surviving-devops-mike-mcgarr
+youtube: cmbavBi_SLY
+tags: ["devops", "mike-mcgarr", "netflix", "engineering-standards", "autonomy", "standardisation"]
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmbavBi_SLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
