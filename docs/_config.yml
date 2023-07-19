@@ -42,8 +42,11 @@ navigation:
     url: /engineering-manager-bookshelf
   - text: About
     url: /about/
+  - text: TV
+    url: /tv
   - text: Feed
     url: /feed.xml
+  
 
 # Colors
 accent_color: '#e76f51'
