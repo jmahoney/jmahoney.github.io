@@ -13,7 +13,6 @@ permalink: /tv/
     
   </head>
   <body>
-    <div id="notice"></div>
     <div id="player"></div>
     <script>
       
@@ -21,17 +20,10 @@ permalink: /tv/
       var viewportWidth = window.innerWidth - 20;
       var viewportHeight = window.innerHeight - 20;
 
-      // Define an array of YouTube video IDs
-      //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
-      var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
-      // Shuffle the array to play videos in random order
-      videos.sort(function() { return 0.5 - Math.random() });
-      document.getElementById('notice').innerHTML = 'Trying to start playing <a href="https://www.youtube.com/watch?v=' + videos[0] + '">https://www.youtube.com/watch?v=' + videos[0] + '</a>';
       // Create a new YouTube player
       var player;
       
       function onYouTubePlayerAPIReady() {
-        document.getElementById('notice').hidden = true;
         
         //try to create a player and catch an error
         player = new YT.Player('player', {
@@ -41,7 +33,7 @@ permalink: /tv/
             autoplay: 1,
             controls: 1,
             loop: 1,
-            playlist: videos.join(','),
+            list: "PLlv6eUtAwfy6196B-F5hgAN-P192hvg1v",
             rel: 0,
             showinfo: 1,
             playsinline: 1,
@@ -49,8 +41,6 @@ permalink: /tv/
         });
       }
       
-
-
       // resize the width and height of the player when the viewport resizes
       window.onresize = function() {
         viewportWidth = window.innerWidth - 20;
