@@ -9,3 +9,4 @@ Last night I took a dive into the Tony Stark "conversational programming" future
 
 Today I updated the metadata on three dozen posts and pushed it up. The result is [Iterative TV](/tv). I'm gonna chuck it on in the background and see what happens.
 
+*Update the next day: It turns out that it sometimes (often on iOS) doesn't load the player correctly for no easily discernable reason. So I guess I'll have to go down the road of creating an actual YouTube playlist at some point in the future.* 
