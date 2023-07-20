@@ -25,10 +25,8 @@ permalink: /tv/
       //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
       var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
       // Shuffle the array to play videos in random order
-      //videos.sort(function() { return 0.5 - Math.random() });
-      videos = [videos[2],videos[1]];
+      videos.sort(function() { return 0.5 - Math.random() });
       document.getElementById('notice').innerHTML = 'Trying to start playing <a href="https://www.youtube.com/watch?v=' + videos[0] + '">https://www.youtube.com/watch?v=' + videos[0] + '</a>';
-      console.log(videos.join(','));
       // Create a new YouTube player
       var player;
       
@@ -36,24 +34,19 @@ permalink: /tv/
         document.getElementById('notice').hidden = true;
         
         //try to create a player and catch an error
-        try {
-          player = new YT.Player('player', {
-            height: viewportHeight,
-            width: viewportWidth,
-            playerVars: {
-              autoplay: 1,
-              controls: 1,
-              loop: 1,
-              playlist: videos.join(','),
-              rel: 0,
-              showinfo: 1,
-              playsinline: 1,
-              origin: "https://www.youtube.com"           }
-          });
-        }
-        catch(err) {
-          document.getElementById('notice').innerHTML = 'Error: ' + err.message;
-        }        
+        player = new YT.Player('player', {
+          height: viewportHeight,
+          width: viewportWidth,
+          playerVars: {
+            autoplay: 1,
+            controls: 1,
+            loop: 1,
+            playlist: videos.join(','),
+            rel: 0,
+            showinfo: 1,
+            playsinline: 1,
+            origin: "https://www.youtube.com"           }
+        });
       }
       
 
