@@ -5,47 +5,64 @@ permalink: /tv/
 ---
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Iterative TV</title>
-  <script src="https://www.youtube.com/player_api"></script>
-</head>
-<body>
-<div id="player"></div>
-<script>
-    // set variables for the width and height of the viewport
-    var viewportWidth = window.innerWidth - 20;
-    var viewportHeight = window.innerHeight - 20;
-
-    // Define an array of YouTube video IDs
-    //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
-    var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
-    // Shuffle the array to play videos in random order
-    videos.sort(function() { return 0.5 - Math.random() });
-
-    // Create a new YouTube player
-    var player;
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Iterative TV</title>
+    <script src="https://www.youtube.com/player_api"></script>
     
-    function onYouTubePlayerAPIReady() {
-      player = new YT.Player('player', {
-        height: viewportHeight,
-        width: viewportWidth,
-        playerVars: {
-          autoplay: 1,
-          controls: 1,
-          loop: 1,
-          playlist: videos.join(','),
-          rel: 0,
-          showinfo: 1
+  </head>
+  <body>
+    <div id="notice"></div>
+    <div id="player"></div>
+    <script>
+      
+      // set variables for the width and height of the viewport
+      var viewportWidth = window.innerWidth - 20;
+      var viewportHeight = window.innerHeight - 20;
+
+      // Define an array of YouTube video IDs
+      //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
+      var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
+      // Shuffle the array to play videos in random order
+      videos.sort(function() { return 0.5 - Math.random() });
+
+      document.getElementById('notice').innerHTML = 'Trying to start playing <a href="https://www.youtube.com/watch?v=' + videos[0] + '">https://www.youtube.com/watch?v=' + videos[0] + '</a>';
+
+      // Create a new YouTube player
+      var player;
+      
+      function onYouTubePlayerAPIReady() {
+        document.getElementById('notice').hidden = true;
+        
+        //try to create a player and catch an error
+        try {
+          player = new YT.Player('player', {
+            height: viewportHeight,
+            width: viewportWidth,
+            playerVars: {
+              autoplay: 1,
+              controls: 1,
+              loop: 1,
+              playlist: videos.join(','),
+              rel: 0,
+              showinfo: 1
+            }
+          });
         }
-      });
-    }
-    // resize the width and height of the player when the viewport resizes
-    window.onresize = function() {
-      viewportWidth = window.innerWidth - 20;
-      viewportHeight = window.innerHeight - 20;
-      player.setSize(viewportWidth, viewportHeight);
-    };
-  </script>
+        catch(err) {
+          document.getElementById('notice').innerHTML = 'Error: ' + err.message;
+        }        
+      }
+      
+
+
+      // resize the width and height of the player when the viewport resizes
+      window.onresize = function() {
+        viewportWidth = window.innerWidth - 20;
+        viewportHeight = window.innerHeight - 20;
+        player.setSize(viewportWidth, viewportHeight);
+      };
+    </script>
   </body>
-  </html>
+</html>
