@@ -25,10 +25,10 @@ permalink: /tv/
       //var videos = ['VIDEO_ID_1', 'VIDEO_ID_2', 'VIDEO_ID_3'];
       var videos = [{% for post in site.posts %}{% if post.youtube %}'{{ post.youtube }}',{% endif %}{% endfor %}]
       // Shuffle the array to play videos in random order
-      videos.sort(function() { return 0.5 - Math.random() });
-
+      //videos.sort(function() { return 0.5 - Math.random() });
+      videos = [videos[2],videos[1]];
       document.getElementById('notice').innerHTML = 'Trying to start playing <a href="https://www.youtube.com/watch?v=' + videos[0] + '">https://www.youtube.com/watch?v=' + videos[0] + '</a>';
-
+      console.log(videos.join(','));
       // Create a new YouTube player
       var player;
       
