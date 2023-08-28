@@ -2,7 +2,7 @@
 category: Monday Links
 date: 2023-07-31 05:00:00 +1200
 title: Monday Links 36
-permalink: /monday-links-36
+permalink: /monday-links-6
 tags: ["video-games", "git", "github", "debugging", "nintendo", "steam", "institutional-knowledge", "zelda", "dota"]
 ---
 
