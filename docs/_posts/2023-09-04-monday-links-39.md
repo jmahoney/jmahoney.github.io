@@ -1,8 +1,8 @@
 ---
 category: Monday Links 
 date: 2023-09-04 05:00:00 +1200
-title: Monday Links 39a
-permalink: /monday-links-38
+title: Monday Links 39
+permalink: /monday-links-39
 tags: ["the-weakerthans","stereogum","music"]
 ---
 
