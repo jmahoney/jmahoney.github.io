@@ -1,5 +1,5 @@
 ---
-category: Monday Links 40
+category: Monday Links
 date: 2023-09-18 18:59:49 +1200
 title: Monday Links 40
 permalink: /monday-links-40
