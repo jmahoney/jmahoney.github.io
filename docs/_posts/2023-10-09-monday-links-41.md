@@ -3,7 +3,7 @@ category: Monday Links
 date: 2023-10-09 05:00:00 +1300
 title: Monday Links 41
 permalink: /monday-links-41
-tags: ["stack-overflow"m "video-games", "open-source", "injury", "recovery"]
+tags: ["stack-overflow", "video-games", "open-source", "injury", "recovery"]
 ---
 
 [Celebrating 15 Years of StackOverflow](https://stackoverflow.blog/2023/09/26/celebrating-15-years-of-stack-overflow/). It's very hard to overstate the impact StackOverlfow had on software development when it finally opened up after months and months of being [six to eight weeks from launch](https://the-stack-overflow-podcast.simplecast.com/episodes/oral-history-of-stack-overflow-founders/transcript). It was a sea change in how developers figured out what the hell was wrong with their code.[ This oral history by the original team](https://stackoverflow.blog/2021/12/14/podcast-400-an-oral-history-of-stack-overflow-told-by-its-founding-team/) is great value.
