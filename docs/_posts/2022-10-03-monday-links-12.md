@@ -2,7 +2,7 @@
 category: Monday Links
 date: 2022-10-03 06:00:01 +1300
 title: Monday Links 12
-permalink: /monday-links
+permalink: /monday-links-12
 ---
 
 [Simon Willison's recommended engineering practices are rock solid](https://simonwillison.net/2022/Oct/1/software-engineering-practices/):
