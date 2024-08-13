@@ -15,6 +15,7 @@ Charles Stross: [On mistaking a transient state for a permanent one](https://www
 >Dumping 9000 tons of metal into the upper atmosphere is a linear extrapolation from today's situation, and does not reflect what's ultimately going to happen. This is a transient phase—the gold rush, the railroad race—and not the steady state we're going to end up in once the period of rapid expansion comes to an end.
 
 
-I've been enjoying [Dr Katie Mack & John Green's podcast about the history of the universe](https://crash-course-pods-the-universe.simplecast.com/). They are three episodes in and have finally got to a timescale beyond the first few seconds. It't fantastic. Here's [the trailer](https://www.youtube.com/watch?v=L5YO9nmojo4):
+
+Current favourite podcast: I've been enjoying [Dr Katie Mack & John Green's podcast about the history of the universe](https://crash-course-pods-the-universe.simplecast.com/). They are three episodes in and have finally got to a timescale beyond the first few seconds. It't fantastic. Here's [the trailer](https://www.youtube.com/watch?v=L5YO9nmojo4):
 
 <div class="embed-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L5YO9nmojo4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
