@@ -2,10 +2,10 @@
 category: Friday Videos
 date: 2024-09-20 05:00:00 +1200
 title: "Trash Theory: So what is 'Say It Ain’t So' by Weezer actually about?"
-permalink: trash-theory-making-of-weezers-blue-album 
+permalink: trash-theory-making-of-weezers-blue-album
 tags: [music, weezer, blue-album, trash-theory]
 ---
-Self-described loner, rebel, and music chronicler Trash Theory's YouTube channel is a treasure trove of deep dives into bands and genres from the 80s and 90s. 
+Self-described loner, rebel, and music chronicler Trash Theory's YouTube channel is a treasure trove of deep dives into bands and genres from the 80s and 90s.
 
 [This week's one is about Weezer's Blue Album](https://youtu.be/I0kDpO2Hl-0).
 
