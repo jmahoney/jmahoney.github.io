@@ -1,19 +1,21 @@
-name: trigger-rebuild
+name: Scheduled Site Rebuild
 
 on:
   schedule:
-    - cron:  '17 17 * * *'
+    - cron: "17 17 * * *"
+
+permissions:
+  actions: write # Needed to trigger workflow_dispatch
+  contents: read # Minimal read access
 
 jobs:
   trigger-rebuild:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger GitHub pages rebuild
+      - name: Trigger Jekyll deployment workflow
         run: |
           curl --fail --request POST \
-            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
-            --header "Authorization: Bearer $USER_TOKEN"
-        env:
-          # You must create a personal token with repo access as GitHub does
-          # not yet support server-to-server page builds.
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+            --url https://api.github.com/repos/${{ github.repository }}/actions/workflows/jekyll.yml/dispatches \
+            --header "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            --header "Content-Type: application/json" \
+            --data '{"ref":"main"}'
