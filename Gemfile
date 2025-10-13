@@ -1,16 +1,23 @@
 source "https://rubygems.org"
+
+# Jekyll 4.4
+gem "jekyll", "~> 4.4.0"
+
+# Required by Jekyll 4.4
+gem "csv"
+
+# Plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
-  gem "github-pages"
-  gem "activesupport", "7.0.7.1"
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
+# Platform-specific dependencies
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
 
@@ -21,4 +28,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.8.2"
+# Web server
+gem "webrick", "~> 1.8"
