@@ -1,10 +1,12 @@
 source "https://rubygems.org"
 
 # Jekyll 4.4
-gem "jekyll", "~> 4.4.0"
+gem "jekyll", "~> 4.4.1"
 
 # Required by Jekyll 4.4
 gem "csv"
+
+gem "logger"
 
 # Plugins
 group :jekyll_plugins do
