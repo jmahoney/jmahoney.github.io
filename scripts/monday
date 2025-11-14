@@ -1,0 +1,100 @@
+#!/usr/bin/env ruby
+
+require 'date'
+require 'fileutils'
+
+# Calculate next Monday from today
+def next_monday
+  today = Date.today
+  days_until_monday = (1 - today.wday) % 7
+  days_until_monday = 7 if days_until_monday == 0 # If today is Monday, get next Monday
+  today + days_until_monday
+end
+
+# Determine NZ timezone offset based on DST rules
+# NZDT (+1300): Last Sunday in September → First Sunday in April
+# NZST (+1200): First Sunday in April → Last Sunday in September
+def nz_timezone_offset(date)
+  year = date.year
+
+  # Last Sunday in September - DST starts (spring forward)
+  sept_last = Date.new(year, 9, 30)
+  dst_start = sept_last - (sept_last.wday % 7)
+
+  # First Sunday in April - DST ends (fall back)
+  april_first = Date.new(year, 4, 1)
+  days_to_first_sunday = (7 - april_first.wday) % 7
+  dst_end = april_first + days_to_first_sunday
+
+  # Check if date is in NZDT period
+  if date >= dst_start || date < dst_end
+    "+1300" # NZDT (Daylight Time)
+  else
+    "+1200" # NZST (Standard Time)
+  end
+end
+
+# Find the highest Monday Links number from existing posts
+def find_last_monday_links_number
+  posts_dir = File.join(__dir__, '..', '_posts')
+  max_number = 0
+
+  Dir.glob(File.join(posts_dir, '*monday-links*.md')).each do |file|
+    # Try to extract number from filename
+    if file =~ /monday-links-(\d+)\.md$/
+      number = $1.to_i
+      max_number = number if number > max_number
+    else
+      # If no number in filename, check frontmatter for title
+      content = File.read(file)
+      if content =~ /^title:\s*Monday Links (\d+)/i
+        number = $1.to_i
+        max_number = number if number > max_number
+      end
+    end
+  end
+
+  max_number
+end
+
+# Main execution
+begin
+  monday = next_monday
+  tz_offset = nz_timezone_offset(monday)
+  next_number = find_last_monday_links_number + 1
+
+  # Format the date and create filename
+  date_str = monday.strftime("%Y-%m-%d")
+  time_str = "05:00:00"
+  filename = "#{date_str}-monday-links-#{next_number}.md"
+  filepath = File.join(__dir__, '..', '_posts', filename)
+
+  # Check if file already exists
+  if File.exist?(filepath)
+    puts "Error: File already exists: #{filename}"
+    exit 1
+  end
+
+  # Create frontmatter
+  frontmatter = <<~YAML
+    ---
+    category: Monday Links
+    date: #{date_str} #{time_str} #{tz_offset}
+    title: Monday Links #{next_number}
+    permalink: /monday-links-#{next_number}
+    tags: []
+    ---
+
+  YAML
+
+  # Write the file
+  File.write(filepath, frontmatter)
+
+  puts "✓ Created: #{filename}"
+  puts "  Date: #{date_str} #{time_str} #{tz_offset}"
+  puts "  Title: Monday Links #{next_number}"
+  puts "  Path: _posts/#{filename}"
+rescue => e
+  puts "Error: #{e.message}"
+  exit 1
+end

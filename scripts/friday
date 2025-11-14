@@ -1,0 +1,78 @@
+#!/usr/bin/env ruby
+
+require 'date'
+require 'fileutils'
+
+# Calculate next Friday from today
+def next_friday
+  today = Date.today
+  days_until_friday = (5 - today.wday) % 7
+  days_until_friday = 7 if days_until_friday == 0 # If today is Friday, get next Friday
+  today + days_until_friday
+end
+
+# Determine NZ timezone offset based on DST rules
+# NZDT (+1300): Last Sunday in September → First Sunday in April
+# NZST (+1200): First Sunday in April → Last Sunday in September
+def nz_timezone_offset(date)
+  year = date.year
+
+  # Last Sunday in September - DST starts (spring forward)
+  sept_last = Date.new(year, 9, 30)
+  dst_start = sept_last - (sept_last.wday % 7)
+
+  # First Sunday in April - DST ends (fall back)
+  april_first = Date.new(year, 4, 1)
+  days_to_first_sunday = (7 - april_first.wday) % 7
+  dst_end = april_first + days_to_first_sunday
+
+  # Check if date is in NZDT period
+  if date >= dst_start || date < dst_end
+    "+1300" # NZDT (Daylight Time)
+  else
+    "+1200" # NZST (Standard Time)
+  end
+end
+
+# Main execution
+begin
+  friday = next_friday
+  tz_offset = nz_timezone_offset(friday)
+
+  # Format the date and create filename
+  date_str = friday.strftime("%Y-%m-%d")
+  time_str = "05:00:00"
+  filename = "#{date_str}-friday-video.md"
+  filepath = File.join(__dir__, '..', '_posts', filename)
+
+  # Check if file already exists
+  if File.exist?(filepath)
+    puts "Error: File already exists: #{filename}"
+    exit 1
+  end
+
+  # Create frontmatter
+  frontmatter = <<~YAML
+    ---
+    category: Friday Videos
+    date: #{date_str} #{time_str} #{tz_offset}
+    title: Friday Video
+    permalink: /friday-video
+    tags: []
+    ---
+
+  YAML
+
+  # Write the file
+  File.write(filepath, frontmatter)
+
+  puts "✓ Created: #{filename}"
+  puts "  Date: #{date_str} #{time_str} #{tz_offset}"
+  puts "  Category: Friday Videos"
+  puts "  Path: _posts/#{filename}"
+  puts ""
+  puts "Remember to update the title and permalink!"
+rescue => e
+  puts "Error: #{e.message}"
+  exit 1
+end
