@@ -7,7 +7,7 @@ permalink: /about/
 
 I've been a programmer and manager in various software development roles since the late 90s. I'm also a [surf life guard and coach at Titahi Bay Surf Life Saving Club](https://www.titahibayslsc.org.nz/) during the summer. I'm an avid reader of books & comics, I love music, and I enjoy running and biking outdoors.
 
-This blog focuses about all the things I find interesting about my work and hobbies. I'm a student of process. I'm big on continous improvement, learning, and growth. So you can expect to find posts about everything from software engineering career growth to the process of writing an issue of X-Men to the techniques around assessing risks and taking preventative measures.
+This blog focuses about all the things I find interesting about my work and hobbies. recently it's become a lot less technical. I'm a student of process. I'm big on continous improvement, learning, and growth. So you can expect to find posts about everything from software engineering career growth to the process of writing an issue of X-Men to the techniques around assessing risks and taking preventative measures.
 
 ### Opinions
 
@@ -19,6 +19,8 @@ This website is built using [Jekyll](https://jekyllrb.com/) and is hosted on [Gi
 
 The theme is called [pot-kettle-black](https://github.com/jmahoney/pot-kettle-black) and is a series of tweaks and changes to the [Scriptor Jekyll theme produced by Just Good Themes](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme). I tend to name all my personal software projects after Wilco songs.
 
+I edit the blog using Gnome Text Editor on an old laptop running Ubuntu.
+
 ### Me, elsewhere
 
-I like email: please reach out at jmahoney @ iterative dot co dot nz. You can find me on [LinkedIn](https://linkedin.com/in/jmahoney), [GitHub](https://github.com/jmahoney), [Badger](https://badgerchat.io/profile/joemahoney), and [Metafilter](https://www.metafilter.com/user/1076).
+I like email: please reach out at jmahoney @ iterative dot co dot nz. You can find me on [LinkedIn](https://linkedin.com/in/jmahoney), [GitHub](https://github.com/jmahoney), and [Metafilter](https://www.metafilter.com/user/1076).
