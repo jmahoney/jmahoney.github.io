@@ -66,6 +66,13 @@ plugins:
 paginate: 5
 paginate_path: "/page:num/"
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
 # Favicon
 favicon: images/favicon.png
 
