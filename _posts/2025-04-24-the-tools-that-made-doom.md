@@ -1,7 +1,7 @@
 ---
 category: Friday Videos
 date: 2026-04-24 05:00:00 +1200
-title: "The Tools Built Doom"
+title: "The Tools That Built Doom"
 permalink: /the-tools-that-built-doom
 tags: [doom, nextstep, programming, john-romero]
 ---
