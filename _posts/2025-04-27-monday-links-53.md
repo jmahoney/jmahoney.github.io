@@ -6,7 +6,7 @@ permalink: /monday-links-52
 tags: [running, marathon, ai, github-copilot, finops]
 ---
 
-Software development is killer app for generative AI.  [Maybe it's the only one?](https://bsky.app/profile/ramiismail.com/post/3mez224lpkc2x?ref=aftermath.site) 
+Software development is killer app for generative AI.  [Maybe it's the only one?](https://bsky.app/profile/ramiismail.com/post/3mez224lpkc2x?ref=aftermath.site). Nope, the other killer app is [charging a premium to _not_ train on customers data](https://www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/).
 
 It seems, though, that, using the robots well is causing problems for the model providers: using them effectively is costing too much.
 
