@@ -12,6 +12,8 @@ It seems, though, that, using the robots well is causing problems for the model 
 
 Last week Microsoft [stopped accepting signups for personal plans, added usage limits, and basically telegraphed that their "premium request" model was on its way out](https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/). Not surprising when a good developer can dump a sophisticated prompt into the Copilot CLI, burn hundreds of thousands of tokens, and only use a handful of premium requests.
 
+**Update:** [GitHub Copilot is moving to usage-based billing](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/), an article in which Microsoft note that it costs a lot more to run GitHub Copilot now so you'll need to pay more but also the price hasn't changed. 
+
 Anthropic also seemed to be thinking about changing their model, [A/B testing a pricing page that excluded their most popular plan](https://simonwillison.net/2026/Apr/22/claude-code-confusion/).
 
 Meanwhile people are experimenting with ways to reduce token usage. [Prompting like a caveman shows promise.](https://medium.com/@KubaGuzik/i-benchmarked-the-viral-caveman-prompt-to-save-llm-tokens-then-my-6-line-version-beat-it-d8e565f95e15) [Learning Chinese doesn't seem to be worth it.](https://arxiv.org/html/2604.14210v1) The most 5D chess suggestion: [hire junior developers to do the menial tasks](https://x.com/chribjel/status/2046497932627644425). Honestly, it's enough to get on board with [Milton's plan](https://www.youtube.com/watch?v=V09fnmAUDVQ) at this point.
