@@ -1,8 +1,8 @@
 ---
 category: Monday Links
 date: 2026-04-27 20:00:00 +1200
-title: Monday Links 52
-permalink: /monday-links-52
+title: Monday Links 53
+permalink: /monday-links-53
 tags: [running, marathon, ai, github-copilot, finops]
 ---
 
