@@ -11,7 +11,7 @@ permalink: /open-to-work-april-2023
 
 After nine and a half years at Xero, I've decided it's time for a change. My last day will be at the end of this month, and I'm excited to explore new opportunities in the software development world.
 
-I'm proud of what I've accomplished during my time there. I was fortunate enough to work with several great development teams and contribute to the development of many useful features. I helped with Xero's migration to AWS, which enabled us to grow to over 3 million customers. I participated in countless interviews and it was my pleasure to say says to dozens of fantastic developers, team leads, and products owners who became friends and mentors.
+I'm proud of what I've accomplished during my time there. I was fortunate enough to work with several great development teams and contribute to the development of many useful features. I helped with Xero's migration to AWS, which enabled us to grow to over 3 million customers. I participated in countless interviews and it was my pleasure to say yes to dozens of fantastic developers, team leads, and products owners who became friends and mentors.
 
 I loved working with our designers, product managers, and CX team too. A highlight was winning the XPLORE hackathon twice by assembling a crack team, working through the CX team's list of bugs and shipping the fixes.
 
