@@ -1,7 +1,7 @@
 ---
 category: Monday Links
 date: 2026-09-28 05:00:00 +1300
-title: Monday Links 
+title: Monday Links 55
 permalink: /monday-links-55
 tags: [robin-sloan,ai]
 ---
